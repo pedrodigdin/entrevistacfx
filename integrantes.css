@@ -1,6 +1,6 @@
 body{
     color: white;
-        background-color:black
+        background-color: black;
 }
 h1{
     text-align: center;
@@ -10,4 +10,10 @@ img{
     width: 250px;
     height: 250px;
     border-radius: 50%;
+}
+.pepp{
+    text-align: center;
+}
+.junin{
+    text-align: center;
 }
